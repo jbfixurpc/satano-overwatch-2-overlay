@@ -1,0 +1,10 @@
+# Exclude build artifacts
+
+# Do not edit manually
+*.min.js linguist-generated
+
+*.ico binary
+*.bat text eol=crlf
+public/index.html linguist-vendored
+**/*.go linguist-detectable
+# eof 2b2ab87a
